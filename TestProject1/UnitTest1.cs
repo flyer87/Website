@@ -14,7 +14,7 @@ namespace TestProject1
         [TestInitialize]
         public void Intialize()
         {
-            driver.Navigate().GoToUrl("https://localhost:44374");
+            driver.Navigate().GoToUrl("https://localhost:51020");
 
         }
 
